@@ -1,2 +1,2 @@
 # Interpreter
-Simple Interpreter from File
+Simple Interpreter and getting command from file
